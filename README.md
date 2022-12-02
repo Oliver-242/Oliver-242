@@ -29,14 +29,29 @@
     - ```
       git clone https://github.com/Oliver-242/HUST-cpp-programming
       ```
+      
+  - **Computation Theory**
+    > answer for homework and textbooks
+    - [repository](https://github.com/Oliver-242/HUST-Computation-Theory)
+    - ```
+      git clone https://github.com/Oliver-242/HUST-Computation-Theory
+      ```
     
-  ## forks
+  ## others
   - **Computer communication and Networking**
     > grade 2020 version
     - [repository](https://github.com/Oliver-242/HUST-CS-Computer-Communication-and-Networking)
     - ```
       git clone https://github.com/Oliver-242/HUST-Computer-Communication-and-Networking
       ```
+      
+ - **Operating System**
+    > only include basic experiments
+    - [repository](https://github.com/Oliver-242/HUST-Operating-System)
+    - ```
+      git clone https://github.com/Oliver-242/HUST-Operating-System
+      ```
+      
 &nbsp;  
 &nbsp;  
 [**Back to Top**](#readme)
