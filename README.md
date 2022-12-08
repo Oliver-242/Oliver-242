@@ -1,8 +1,8 @@
 # Jizhou Cai  
-> **As an *grade 2020* undergraduate of Huazhong University of Science and Technology, I decide to share my course materials with you to help younger students save valuable time on HUST's ~~bullshit~~ courses. My repositories is classified by different courses, containing those courses I think are totally wasting time due to everyone having its own interests(lots of experiments are mandatory:+1:). These materials only include some courses, but I hope they can help you, my dear *HUSTERS*.**
+> **As an *grade 2020* undergraduate of Huazhong University of Science and Technology, I decide to share my course materials with you to help younger students save valuable time on HUST's ~~bullshit~~ courses. My repositories is classified by different courses, containing those courses I think are totally wasting time due to everyone having its own interests(lots of experiments are mandatory:+1:). These materials only include some courses, but I hope they can help you, my dear *HUSTERS*.**  
 &nbsp; 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Oliver-242)](https://github.com/anuraghazra/github-readme-stats)
-&nbsp; 
+### [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Oliver-242)](https://github.com/anuraghazra/github-readme-stats)
+
 ## COURSES
 - **Computer Organization**
   > contains experiment and course design
