@@ -4,6 +4,13 @@
 ### [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Oliver-242&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
 ## COURSES
+- **Operating System PKE**
+  > without lab 4
+  - [repository](https://github.com/Oliver-242/HUST-Operating-System)  
+  - ```
+    git clone https://github.com/Oliver-242/HUST-Operating-System
+    ```
+
 - **Computer Organization**
   > contains experiment and course design
   - [repository](https://github.com/Oliver-242/HUST-Computer-Organization)  
