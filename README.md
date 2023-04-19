@@ -6,9 +6,9 @@
 ## COURSES
 - **Operating System PKE**
   > without lab 4
-  - [repository](https://github.com/Oliver-242/HUST-Operating-System)  
+  - [repository](https://github.com/Oliver-242/HUST-Operating-System-PKE)  
   - ```
-    git clone https://github.com/Oliver-242/HUST-Operating-System
+    git clone https://github.com/Oliver-242/HUST-Operating-System-PKE
     ```
 
 - **Computer Organization**
